@@ -249,6 +249,12 @@ nemo.say("I'm sorry I ran off")
 stage.wait(2)
 nemo.say("")
 marlin.say("That's okay son. The important thing is that I found you")
-
+stage.wait(2)
+nemo.say("I love you dad")
+marlin.say("I love you too Nemo")
+stage.wait(2)
+nemo.say("")
+marlin.say("")
+end=codesters.Text("THE END", 0, 200)
 
 
