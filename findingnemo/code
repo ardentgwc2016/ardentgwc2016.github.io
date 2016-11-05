@@ -139,6 +139,7 @@ marlin.say("Thank you")
 stage.wait(2)
 marlin.say("")
 marlin.move_right(300)
+moonfish.move_right(300)
 dory.move_right(300)
 
 #fish tank
@@ -151,7 +152,6 @@ gill.flip_left_right()
 gill.glide_to(70,30)
 nemo.say("Help me get out of here please!")
 stage.wait(2)
-moonfish.move_right(300)
 nemo.say("")
 gill.say("Stay calm, kid")
 stage.wait(2)
@@ -249,3 +249,6 @@ nemo.say("I'm sorry I ran off")
 stage.wait(2)
 nemo.say("")
 marlin.say("That's okay son. The important thing is that I found you")
+
+
+
