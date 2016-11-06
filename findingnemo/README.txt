@@ -1,4 +1,4 @@
-Jenna and Isabelle's GWC final project: this is the story of Finding Nemo
+Jenna and Isabel's GWC final project: this is the story of Finding Nemo
 
 codesters urls
 embed into website:
